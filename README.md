@@ -4,6 +4,8 @@
 
 https://github.com/user-attachments/assets/aa6d2580-8617-48b4-8e69-697e1db27071
 
+Download on the releases page, or click [here](https://github.com/TeamDman/input-debug/releases/download/v0.1.0/input-debug.exe)
+
 
 
 A simple Rust command-line utility that continuously monitors and displays all keyboard keys currently reported as pressed by the Windows operating system. This tool is useful for diagnosing issues where the OS might incorrectly believe a key (like Ctrl, Shift, or Alt) is stuck or being held down.
